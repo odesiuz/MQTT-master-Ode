@@ -1,6 +1,6 @@
 {
-  "name": "MQTT",
-  "author": "hirotakaster",
+  "name": "MQTT-ode",
+  "author": "odesiuz",
   "license": "MIT",
   "version": "0.3.7"
 }
